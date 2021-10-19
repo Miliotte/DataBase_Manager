@@ -7,7 +7,7 @@
 - III - Implementação de Banco de Dados em SQL
 - IV - Manipulação de Banco de Dados em SQL
 
-👨🏼‍💻🧮Desenvolvido ocorrido no decorrer do curso:
+👨🏼‍💻🧮Principais topicos trabalhado no curso:
 ------------------
 - Modelo de entedidade de relacionamento
 - Modelos de select
