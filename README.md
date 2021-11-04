@@ -1,6 +1,6 @@
 
 
-📌 Sobre o Curso de Adminstrador de Banco de Dados - IFRO
+📌Sobre o Curso de Adminstrador de Banco de Dados - IFRO
 ------------------
 - I - Conceitos Gerais sobre Banco de Dados
 - II - Modelagem de Banco de Dados
