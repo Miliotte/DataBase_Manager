@@ -21,7 +21,7 @@
 - Backup
 - Procedimentos
 
-🚀 Tecnologias Utilizadas:
+🚀Tecnologias Utilizadas:
 ------------------
 - SQL
 - MySql
